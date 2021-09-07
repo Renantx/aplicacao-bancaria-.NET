@@ -1,0 +1,16 @@
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Bootcamps .NET\Aplicação de transferência bancária\Aplicacao.Bancaria\bin\Debug\net5.0\Aplicacao.Bancaria.exe
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Bootcamps .NET\Aplicação de transferência bancária\Aplicacao.Bancaria\bin\Debug\net5.0\Aplicacao.Bancaria.deps.json
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Bootcamps .NET\Aplicação de transferência bancária\Aplicacao.Bancaria\bin\Debug\net5.0\Aplicacao.Bancaria.runtimeconfig.json
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Bootcamps .NET\Aplicação de transferência bancária\Aplicacao.Bancaria\bin\Debug\net5.0\Aplicacao.Bancaria.runtimeconfig.dev.json
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Bootcamps .NET\Aplicação de transferência bancária\Aplicacao.Bancaria\bin\Debug\net5.0\Aplicacao.Bancaria.dll
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Bootcamps .NET\Aplicação de transferência bancária\Aplicacao.Bancaria\bin\Debug\net5.0\ref\Aplicacao.Bancaria.dll
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Bootcamps .NET\Aplicação de transferência bancária\Aplicacao.Bancaria\bin\Debug\net5.0\Aplicacao.Bancaria.pdb
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Bootcamps .NET\Aplicação de transferência bancária\Aplicacao.Bancaria\obj\Debug\net5.0\Aplicacao.Bancaria.csproj.AssemblyReference.cache
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Bootcamps .NET\Aplicação de transferência bancária\Aplicacao.Bancaria\obj\Debug\net5.0\Aplicacao.Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Bootcamps .NET\Aplicação de transferência bancária\Aplicacao.Bancaria\obj\Debug\net5.0\Aplicacao.Bancaria.AssemblyInfoInputs.cache
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Bootcamps .NET\Aplicação de transferência bancária\Aplicacao.Bancaria\obj\Debug\net5.0\Aplicacao.Bancaria.AssemblyInfo.cs
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Bootcamps .NET\Aplicação de transferência bancária\Aplicacao.Bancaria\obj\Debug\net5.0\Aplicacao.Bancaria.csproj.CoreCompileInputs.cache
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Bootcamps .NET\Aplicação de transferência bancária\Aplicacao.Bancaria\obj\Debug\net5.0\Aplicacao.Bancaria.dll
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Bootcamps .NET\Aplicação de transferência bancária\Aplicacao.Bancaria\obj\Debug\net5.0\ref\Aplicacao.Bancaria.dll
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Bootcamps .NET\Aplicação de transferência bancária\Aplicacao.Bancaria\obj\Debug\net5.0\Aplicacao.Bancaria.pdb
+C:\Users\nanam\OneDrive\Área de Trabalho\Pastas\Cursos\DIO\Bootcamps .NET\Aplicação de transferência bancária\Aplicacao.Bancaria\obj\Debug\net5.0\Aplicacao.Bancaria.genruntimeconfig.cache
